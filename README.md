@@ -20,8 +20,8 @@ Os demais integrantes do projeto em versões posteriores podem avançar nessas f
 1. https://jogosparecidos.org/games/show-do-milhao
 
 ### Integrantes
-Ana Clara Chromeck da Silva
-Felipe Melo Maeda
-Nathalia Camargo Marques Silva
-Profa. Ana Grasielle Dionísio Corrêa
-Profa. Renata Mendes de Araújo
+- Ana Clara Chromeck da Silva
+- Felipe Melo Maeda
+- Nathalia Camargo Marques Silva
+- Profa. Ana Grasielle Dionísio Corrêa
+- Profa. Renata Mendes de Araújo
