@@ -14,6 +14,7 @@ A pesquisa que embasou a escolha das cores está no arquvio `Psicologia das Core
 ## LIMITAÇÕES
 
 Ao longo do desenvolvimento do projeto, não foi possível aplicar a fonte desejada pois a plataforma Genially exige licença premium. Também não foi possível aleatorizar as perguntas, e por isso optamos por criar uma jornada linear com aumento progressivo de dificuldade.
+A pontuação sobe mesmo com o erro nas perguntas. Rever como implementar.
 Os demais integrantes do projeto em versões posteriores podem avançar nessas frentes em outra plataforma. Além disso, para tornar o jogo mais interessante, podem incorporar o quiz em um jogo maior que inclua recompensas ao jogador.
 
 ## Referências
